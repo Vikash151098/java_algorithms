@@ -1,3 +1,5 @@
+package problems;
+
 class basic {
 
     public static void main(String[] arg) {
