@@ -22,11 +22,9 @@ class totateNumber {
             n = n / 10;
             i++;
         }
-        System.out.println(k % d);
         if (k < 0) {
             k = d - (-k % d);
         }
-        System.out.println(k % d);
         int output[] = new int[d];
         int number = 0;
         for (int j = 0; j < arr.length; j++) {
