@@ -39,5 +39,6 @@ public class damru {
             }
             a--;
         }
+        scn.close();
     }
 }

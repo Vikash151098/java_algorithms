@@ -56,6 +56,7 @@ public class w {
             System.out.println();
             a--;
         }
+        scn.close();
 
     }
 }

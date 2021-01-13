@@ -46,6 +46,7 @@ class Pattern {
 
             a--;
         }
+        scn.close();
 
     }
 }

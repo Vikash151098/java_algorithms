@@ -15,7 +15,6 @@ public class array {
             System.out.println();
             arr.traverse();
         } catch (Exception e) {
-            // TODO: handle exception
             System.out.println("error :" + e);
         }
 

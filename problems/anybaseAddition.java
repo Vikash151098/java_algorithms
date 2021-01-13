@@ -12,6 +12,7 @@ class AnyBaseAddition {
 
         int d = getSum(b, n1, n2);
         System.out.println(d);
+        scn.close();
     }
 
     public static int getSum(int b, int n1, int n2) {
@@ -28,4 +29,5 @@ class AnyBaseAddition {
         result = result + carry * mul;
         return result;
     }
+
 }

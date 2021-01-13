@@ -34,5 +34,7 @@ public class arrow {
             a--;
         }
 
+        scn.close();
+
     }
 }

@@ -58,5 +58,7 @@ public class swistic {
             a--;
         }
 
+        scn.close();
+
     }
 }

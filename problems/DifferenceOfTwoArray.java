@@ -1,6 +1,5 @@
 package problems;
 
-import java.io.*;
 import java.util.*;
 
 public class DifferenceOfTwoArray {
@@ -39,6 +38,7 @@ public class DifferenceOfTwoArray {
             }
             System.out.println(result[a]);
         }
+        scn.close();
     }
 
 }

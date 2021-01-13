@@ -1,6 +1,5 @@
 package problems;
 
-import java.io.*;
 import java.util.*;
 
 public class BarChart {
@@ -27,6 +26,7 @@ public class BarChart {
             }
             System.out.println();
         }
+        scn.close();
     }
 
 }

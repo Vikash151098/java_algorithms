@@ -1,7 +1,6 @@
 package problems;
 
 import java.io.*;
-import java.util.*;
 
 public class RotateArray {
     public static void display(int[] a) {
