@@ -1,6 +1,5 @@
 package problems;
 
-import java.io.*;
 import java.util.*;
 
 public class exitPointMatrix {
@@ -55,5 +54,6 @@ public class exitPointMatrix {
                 }
             }
         }
+        scn.close();
     }
 }

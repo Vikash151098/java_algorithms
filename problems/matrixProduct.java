@@ -4,7 +4,6 @@ package problems;
  * matrixProduct
  */
 
-import java.io.*;
 import java.util.*;
 
 public class matrixProduct {
@@ -33,6 +32,7 @@ public class matrixProduct {
         // multiply arr1 and arr2 and row by column
         if (m1 != n2) {
             System.out.println("Invalid input");
+            scn.close();
             return;
         }
         int result[][] = new int[n1][m2];
@@ -51,7 +51,7 @@ public class matrixProduct {
             }
             System.out.println();
         }
-
+        scn.close();
     }
 
 }

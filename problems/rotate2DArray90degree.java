@@ -4,7 +4,6 @@ package problems;
  * rotate2DArray90degree
  */
 
-import java.io.*;
 import java.util.*;
 
 public class rotate2DArray90degree {
@@ -33,6 +32,7 @@ public class rotate2DArray90degree {
             }
         }
         display(arr);
+        scn.close();
     }
 
     public static void display(int[][] arr) {

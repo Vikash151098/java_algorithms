@@ -4,7 +4,6 @@ package problems;
  * spiraltraverseArray
  */
 
-import java.io.*;
 import java.util.*;
 
 public class spiraltraverseArray {
@@ -48,6 +47,8 @@ public class spiraltraverseArray {
             minr++;
 
         }
+
+        scn.close();
     }
 
 }
