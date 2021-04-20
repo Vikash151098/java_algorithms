@@ -12,6 +12,7 @@ public class printAlbhabets {
         System.out.println(" * *");
         System.out.println("*****");
     }
+
     static void B() {
         System.out.println("****");
         System.out.println("*   *");
